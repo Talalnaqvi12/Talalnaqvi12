@@ -19,7 +19,6 @@ I like the parts of Shopify development that go beyond swapping colors in the th
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-talal-hussain-b39063220/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedtalal130@gmail.com) 
-[![Agency](https://img.shields.io/badge/ScaleCredo-96BF48?logo=shopify&logoColor=white)](https://scalecredo.com)
 
 ---
 
