@@ -102,10 +102,6 @@ I like the parts of Shopify development that go beyond swapping colors in the th
 
 <br/>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Talalnaqvi12&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
 
 <br/>
 
