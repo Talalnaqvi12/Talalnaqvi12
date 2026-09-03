@@ -92,25 +92,6 @@ I like the parts of Shopify development that go beyond swapping colors in the th
 
 ---
 
-## GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Talalnaqvi12&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Talalnaqvi12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Talalnaqvi12&theme=dark&hide_border=false" width="65%" />
-</div>
-
-<br/>
-
-
-
-<br/>
-
-### Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
 <br/>
 
 ---
