@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:96BF48,50:2b2b2b,100:000000&height=200&section=header&text=Syed%20Talal%20Hussain&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Shopify%20Developer%20%7C%20E-Commerce%20Engineer&descAlignY=58&descSize=17" width="100%"/>
 </div>
 
-# 💫 About Me
+# About Me
 I build Shopify storefronts for a living — everything from custom theme development to full platform migrations to squeezing extra milliseconds out of a slow homepage. Most of my work sits at the intersection of Liquid, JavaScript, and whatever backend glue (Python, Flask, APIs) a project needs to actually work the way a merchant wants it to.
 
 I like the parts of Shopify development that go beyond swapping colors in the theme editor — turning a Figma file into a real section, untangling a messy metafield structure, or figuring out why LCP is sitting at 4 seconds when it shouldn't be.
@@ -16,13 +16,14 @@ I like the parts of Shopify development that go beyond swapping colors in the th
 
 ---
 
-## 🌐 Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-talal-hussain-b39063220/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedtalala130@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedtalal130@gmail.com) 
+[![Agency](https://img.shields.io/badge/ScaleCredo-96BF48?logo=shopify&logoColor=white)](https://scalecredo.com)
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 ### BBF Industrial
 *May 2025 – Present*
@@ -72,7 +73,7 @@ I like the parts of Shopify development that go beyond swapping colors in the th
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Liquid](https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -92,7 +93,7 @@ I like the parts of Shopify development that go beyond swapping colors in the th
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Talalnaqvi12&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Talalnaqvi12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
@@ -102,10 +103,14 @@ I like the parts of Shopify development that go beyond swapping colors in the th
 
 <br/>
 
+### GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Talalnaqvi12&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
 
 <br/>
 
-### ✍️ Dev Quote
+### Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
