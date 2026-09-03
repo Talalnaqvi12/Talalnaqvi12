@@ -198,16 +198,6 @@ A purely pixel-perfect Figma-to-Shopify implementation.
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" width="65%" />
-
-</div>
 
 ---
 
